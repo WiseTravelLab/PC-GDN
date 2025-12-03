@@ -1,0 +1,1 @@
+Since the datasets are too big for github, please consider download from : https://business.yelp.com/data/resources/open-dataset/
